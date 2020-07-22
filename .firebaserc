@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "kanban-plus": {
+      "hosting": {
+        "fireship-ng": [
+          "kanban-plus"
+        ]
+      }
+    }
+  }
+}
